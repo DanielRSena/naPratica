@@ -164,20 +164,40 @@
   {
     "nome": "Nubank",
     "compatibilidade": "alto",
-    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
-    "visao": "Ser referência em tecnologia social até 2030.",
-    "valores": "Transparência, Inovação e Inclusão.",
-    "descricao": "",
+    "missao": "Compreender as necessiades do cliente, sempre buscando tornar a vida financeira mais simples, nunca se acomodando.",
+    "visao": "Ser referência em tecnologia social até 2030. Garantir que quem tá entrando, consiga ver evidencias que ela valoriza o que valorizamos. Quere, estar a fim de trbalaahr. Chegar preparada - e se não chegar, aprender rápido.",
+    "valores": "Transparência, Inovação e ROBUSTEZ-SIMPLES. Tomar decisão com base em dados. ",
+    "descricao": "Gostei da história da Dora Souza, que entrou como diarista mas agora é facilities analyst. <br><br>Cultura que forma, cria e transofrma. Cresceu da vontade do fundador de mudar a forma que os bancos funcionam. 'Ainda é o primeiro dia, se traz valor, vale a pena'. <br><br> +90mi em 10 anos, uma das maiores plataformas de serviços financeiros do muno - mesmo não sendo um banco <br><br> 59% dos adultos BR são NU <br><br>TOP 12 noTop COmpanies LinkedIn 2025 <br><br> Mentalidade de dono, amar a Nubank loucamente. <br><br> Quebrar o padrão <br><br> 11bi de tarifas economizadas em 2023 <br><br> Big Hairy Audacious Goal - empresa mais influente de serviços financieiros do mundo <br><br> 1 - Cliente no centro, clientes fanaticos pelo nubank <br><br> 2 - Mentalidade de dono, amar a nubank loucamente <br><br> 3 - Quebrar o padrão, fazer diferente <br><br> 4 - Pensar muito em equipes, diversidade <br><br> 5 - Buscar eficiencia inteligente",
     "pessoas": [
       {
-        "nome": "Ana Costa",
-        "cargo": "CEO",
-        "foto": "https://via.placeholder.com/60x60?text=AC"
+        "nome": "Andre Lannoy Tavares",
+        "cargo": "Diretor de produto",
+        "foto": "https://media.licdn.com/dms/image/v2/D5603AQF_9W3JpLQfpw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1724619783819?e=1756339200&v=beta&t=bDgpVFaxp_3zmAutZ1YfEs1de4lTAM-ovHzuAKBTEdY"
       },
       {
-        "nome": "Lucas Dias",
-        "cargo": "CTO",
-        "foto": "https://via.placeholder.com/60x60?text=LD"
+        "nome": "Shirley Ferreira",
+        "cargo": "Tech Recruiter",
+        "foto": "https://media.licdn.com/dms/image/v2/C4D03AQECr7Z2_NoQ9Q/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1655144920300?e=1756339200&v=beta&t=dcTX3iVagyqlHkoZijSy72o_S2mFmvfTqjtPscrol8s"
+      },
+      {
+        "nome": "Thiago Lodo",
+        "cargo": "Finance Data Director | Head of Finance Platform at Nubank",
+        "foto": "https://media.licdn.com/dms/image/v2/C4E03AQF5q5ClwKVK_w/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1639455885937?e=1756339200&v=beta&t=lq2t_tgdggNc92vRjAZvFK-tn7e-_KTL6mYN0bp8ok8"
+      },
+      {
+        "nome": "Lucas Cavalcanti dos Santos",
+        "cargo": "Principal Software Engineer at Nubank",
+        "foto": "https://media.licdn.com/dms/image/v2/C4E03AQHOkbKUtRozCA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1620743860062?e=1756339200&v=beta&t=A7Fm0BYeeKMUCnOFVmjlKIn-0K4j9DEGfjl562cpYr8"
+      },
+      {
+        "nome": "David Velez",
+        "cargo": "Fundador e CEO",
+        "foto": "https://media.licdn.com/dms/image/v2/C4D03AQE0B8xJI41piA/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1621466723548?e=1756339200&v=beta&t=D6N_RatFM-CvmmmPHZ_lq1OgP3CCfQC2S9EKxFS54dc"
+      },
+      {
+        "nome": "Cristina Junqueira",
+        "cargo": "Co-fundadora",
+        "foto": "https://media.licdn.com/dms/image/v2/C4D03AQFuKhsy7nYNGQ/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1662682435707?e=1756339200&v=beta&t=QgP4dOwgqUYS9caJE6hJt8ueBlhD3avUH9NQe4BeO3A"
       }
     ]
   },
