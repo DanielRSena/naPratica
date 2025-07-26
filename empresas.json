@@ -1,0 +1,265 @@
+[
+  {
+    "nome": "Stone",
+    "compatibilidade": "medio",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://media.licdn.com/dms/image/v2/D4D03AQGqFR4SSlu5jw/profile-displayphoto-shrink_200_200/profile-displayphoto-shrink_200_200/0/1702079969246?e=1756339200&v=beta&t=ImvVhQYHvC1fFXFHhiVXTxbAW8hu9jYdMpjiL-xKdvQ"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "data:image/jpeg;base64,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"
+      }
+    ]
+  },
+  {
+    "nome": "Suzano",
+    "compatibilidade": "medio",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Shopee",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Serasa",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Cielo",
+    "compatibilidade": "medio-baixo",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Eneva",
+    "compatibilidade": "medio-alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Ensina Brasil",
+    "site": "imagens/suzano.png",
+    "compatibilidade": "Alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "BCG",
+    "site": "imagens/suzano.png",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Nubank",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Rede Inspira Educadores",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Lojas Renner",
+    "site": "imagens/suzano.png",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "ZAMP",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  },
+  {
+    "nome": "Enext",
+    "compatibilidade": "alto",
+    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
+    "visao": "Ser referência em tecnologia social até 2030.",
+    "valores": "Transparência, Inovação e Inclusão.",
+    "descricao": "",
+    "pessoas": [
+      {
+        "nome": "Ana Costa",
+        "cargo": "CEO",
+        "foto": "https://via.placeholder.com/60x60?text=AC"
+      },
+      {
+        "nome": "Lucas Dias",
+        "cargo": "CTO",
+        "foto": "https://via.placeholder.com/60x60?text=LD"
+      }
+    ]
+  }
+]

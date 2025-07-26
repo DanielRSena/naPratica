@@ -1,0 +1,135 @@
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  background-color: #121212;
+  color: #e0e0e0;
+}
+
+.container {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+  padding: 1rem;
+}
+
+.card {
+  background-color: #1e1e1e;
+  border-radius: 8px;
+  overflow: hidden;
+  transition: max-height 0.3s ease;
+  cursor: pointer;
+  border: 1px solid #333;
+}
+
+.card-header {
+  display: flex;
+  align-items: center;
+  padding: 1rem;
+}
+
+.card-header img {
+  width: 64px;
+  height: 64px;
+  border-radius: 8px;
+  object-fit: cover;
+  margin-right: 1rem;
+}
+
+.card-header .info {
+  flex: 1;
+}
+
+.card-header .info h2 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.compatibilidade {
+  padding: 0.3rem 0.6rem;
+  border-radius: 4px;
+  display: inline-block;
+  font-size: 0.9rem;
+  margin-top: 0.4rem;
+  font-weight: bold;
+}
+
+.cor-alto { background-color: #2e7d32; color: white; }
+.cor-medio-alto { background-color: #ef6c00; color: white; }
+.cor-medio { background-color: #fdd835; color: black; }
+.cor-outros { background-color: #616161; color: white; }
+
+.card-body {
+  display: none;
+  padding: 1rem;
+  border-top: 1px solid #333;
+}
+
+.card-body p {
+  margin: 0.5rem 0;
+}
+
+.pessoas {
+  margin-top: 1rem;
+  display: flex;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.pessoa-card {
+  background-color: #2c2c2c;
+  border-radius: 6px;
+  padding: 0.5rem;
+  width: 140px;
+  text-align: center;
+}
+
+.pessoa-card img {
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+/* Fundo desfocado */
+.fundo-desfocado #empresa-container {
+  filter: blur(6px);
+  pointer-events: none;
+}
+
+/* Escurece a tela */
+.imagem-overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background: rgba(0, 0, 0, 0.6);
+  backdrop-filter: blur(2px);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10000;
+  cursor: zoom-out;
+}
+
+/* Imagem ampliada */
+.imagem-ampliada {
+  max-width: 90%;
+  max-height: 90%;
+  border-radius: 12px;
+  box-shadow: 0 0 25px rgba(255, 255, 255, 0.3);
+  transition: transform 0.3s ease;
+}
+
+
+@media (max-width: 600px) {
+  .card-header {
+    flex-direction: column;
+    align-items: flex-start;
+  }
+
+  .card-header img {
+    margin-bottom: 0.5rem;
+  }
+}
