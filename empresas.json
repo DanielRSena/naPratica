@@ -65,7 +65,7 @@
     "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
     "visao": "Ser referência em tecnologia social até 2030.",
     "valores": "Transparência, Inovação e Inclusão.",
-    "descricao": "",
+    "descricao": "Serviço de Assesoria SA, primeira datatech do Brasil. <br><br> 1968 - Criada, com o foco em melhorar a vida financeira dos brasileiros e ajudar as empresas a tomar melhores decisões. Também criação do CPF <br><br>2002 - Primeira certificação da Maerica latina em relação á segurança de dados e informações <br><br>2007 - Serasa para Serasa Experian, com foco em tecnologia e inovação. <br><br>2010 - Lançamento do Serasa Consumidor, com o objetivo de ajudar os brasileiros a terem mais controle sobre suas finanças. <br><br>2018 - Lançamento do Serasa Score, que ajuda as pessoas a entenderem melhor sua saúde financeira. <br><br>2012 - Lançamento do Serasa Limpa Nome, que ajuda as pessoas a renegociarem suas dívidas. <br><br>2021 - Lançamento do PagueVeloz. <br><br> Está presente em 30 países, maior sistema de bigdata da America Latina",
     "pessoas": [
       {
         "nome": "Ana Costa",
@@ -121,17 +121,16 @@
   },
   {
     "nome": "Ensina Brasil",
-    "site": "imagens/suzano.png",
     "compatibilidade": "Alto",
-    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
-    "visao": "Ser referência em tecnologia social até 2030.",
-    "valores": "Transparência, Inovação e Inclusão.",
-    "descricao": "",
+    "missao": "Potencializar uma rede de lideranças que, a partir de uma atuação transformadora como professores de escolas em contextos de vulnerabilidade, desenvolvam as competências e o comprometimento necessários para multiplicar seu impacto e continuar expandindo oportunidades para todas as crianças.",
+    "visao": "Um dia, todas as crianças terão uma educação de qualidade.",
+    "valores": "Orgulho de fazer parte, a responsabilidade é nossa, resiliencia com o proposito, idelista e pragnmático, somos todos alunos.",
+    "descricao": "Alinhados com a ODS, nos pontos  4 (educação de qualidade),  10 (redução das desigualdades) e 17(parcerias para a implementação de objetivos).",
     "pessoas": [
       {
-        "nome": "Ana Costa",
-        "cargo": "CEO",
-        "foto": "https://via.placeholder.com/60x60?text=AC"
+        "nome": "Luana Giacomini",
+        "cargo": "Embaixadora Ensina Brasil",
+        "foto": "https://media.licdn.com/dms/image/v2/D4D03AQFJfiaOdjA9cQ/profile-displayphoto-shrink_200_200/B4DZaNF9b2G8AY-/0/1746123876398?e=1756339200&v=beta&t=RYZ8_N0lbAsRN_U4zWqxzkfi62_RIW0ySvtdN5pE2S0"
       },
       {
         "nome": "Lucas Dias",
@@ -245,20 +244,15 @@
   {
     "nome": "ZAMP",
     "compatibilidade": "alto",
-    "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
-    "visao": "Ser referência em tecnologia social até 2030.",
-    "valores": "Transparência, Inovação e Inclusão.",
-    "descricao": "",
+    "missao": "Dar motivos para mais pessoas se juntarem à mesa.",
+    "visao": "Ser a melhor operadora de marcas de restaurantes do mundo, transformando positivamente a vida das pessoas.",
+    "valores": "Coragem para inovar, pessoas no centro de tudo, esse negócio é nosso, humildade, sempre, Você faz, você merece, Fazer o certo, sem atalhos, Vibrar ao longo da jornada",
+    "descricao": "A Zamp é a maior operadora de restaurantes do Brasil, com mais de 2.600 unidades e um time apaixonado por fazer a diferença. A gente acredita que a mesa é um lugar poderoso — onde histórias se cruzam, ideias nascem e conexões verdadeiras acontecem. <br><br>Por isso, nosso dia a dia é movido por gente inspiradora, obstinada e corajosa, que sonha grande e trabalha para transformar positivamente a vida das pessoas. Operamos marcas icônicas como Burger King, Popeyes, Starbucks e Subway, criando experiências que façam mais pessoas quererem se juntar à mesa. ",
     "pessoas": [
       {
         "nome": "Ana Costa",
         "cargo": "CEO",
         "foto": "https://via.placeholder.com/60x60?text=AC"
-      },
-      {
-        "nome": "Lucas Dias",
-        "cargo": "CTO",
-        "foto": "https://via.placeholder.com/60x60?text=LD"
       }
     ]
   },
@@ -268,7 +262,7 @@
     "missao": "Desenvolver soluções que conectem o Brasil ao futuro.",
     "visao": "Ser referência em tecnologia social até 2030.",
     "valores": "Transparência, Inovação e Inclusão.",
-    "descricao": "",
+    "descricao": "Empresa do grupo VML que formula estratégias para alvançar resultados de negócios digitais, com foco em e-commerce. Assim, trbaalha muito com dados, marketing e tecnologia.",
     "pessoas": [
       {
         "nome": "Ana Costa",

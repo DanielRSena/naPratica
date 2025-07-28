@@ -41,7 +41,7 @@ async function carregarEmpresas() {
       <p><strong>Missão:</strong> ${empresa.missao}</p>
       <p><strong>Visão:</strong> ${empresa.visao}</p>
       <p><strong>Valores:</strong> ${empresa.valores}</p>
-      <p><strong>Outras informações:</strong> ${empresa.descricao}</p>
+      <br><br> ${empresa.descricao}</p>
     `;
 
     if (empresa.pessoas && empresa.pessoas.length > 0) {
@@ -110,4 +110,9 @@ function getCorCompat(nivel) {
   }
 }
 
-carregarEmpresas();
+function abrirMenu() {
+  const menu = document.querySelector('.menuResponsivo');
+  menu.classList.toggle('ativo');
+}
+
+if (document.getElementById('empresa-container')) carregarEmpresas();
